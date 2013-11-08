@@ -1,7 +1,6 @@
 # dumbGallery
 _Some jQuery that makes galleries using the default WordPress configuration. Just upload 15 images to any post or page and watch it go.<br/>
 by <a href='https://plus.google.com/104536213394512642005?rel=author'>Chris Walker</a><br/>
-(http://www.youtube.com/watch?v=Th6mGAwvQYU)<br/>
 
 This is a jQuery gallery that I built for a client to display images on his webpage. (It was a rework of two similar image galleries. It seems that making bullet lists are too difficult.) It works well with WordPress. If the post or page has more than 15 images on it, the jQuery kicks in and builds the gallery. It is required that the images be in a paragraph, but this is the default for Wordpress. The jQuery in the plugin will then find the images and build a bunch of little boxes for the individual images. It also builds one large box to show the first image. As the small boxes are clicked, the images contained within them display in the large box. The titles of the images are transferred to the small boxes.
 
